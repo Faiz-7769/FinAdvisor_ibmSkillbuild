@@ -20,7 +20,7 @@ Powered by **IBM Watson Assistant** for managing dialogues and **IBM Granite** f
 
 ## ✨ Wow Factors
 
-- 🗣️ **Multilingual Conversations**: Supports Hinglish, Hindi, and English to ensure accessibility for a wide audience.
+- 🗣️ **Multilingual Conversations**: Supports multiple native languages to ensure accessibility for a wide audience.
 - 🧠 **IBM Granite Foundation Models**: Real-time, intelligent, and context-aware financial advice generation.
 - 💬 **Conversational and Friendly**: Greets users warmly (“Hi, finance buddy at your rescue!”) and uses relatable analogies to explain financial concepts.
 - ☁️ **Serverless and Scalable**: Deployed on IBM Cloud Lite using IBM Cloud Functions for a cost-efficient, scalable backend.
@@ -55,4 +55,4 @@ Powered by **IBM Watson Assistant** for managing dialogues and **IBM Granite** f
 Clone the repository:
    ```bash
    git clone https://github.com/Faiz-7769/FinAdvisor_ibmSkillbuild.git
-
+```
