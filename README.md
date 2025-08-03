@@ -46,7 +46,6 @@ Powered by **IBM Watson Assistant** for managing dialogues and **IBM Granite** f
 - **IBM Granite Models** – For generating natural, human-like responses
 - **IBM Cloud Functions** – Serverless backend logic
 - **IBM Cloud Lite** – Hosting and infrastructure
-- **Node.js / Python (optional)** – For backend functions or integrations
 
 ---
 
